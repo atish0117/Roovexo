@@ -18,13 +18,12 @@ const Header = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center py-4">
           {/* Logo */}
-          <div className="flex items-center space-x-2">
+          <div className=" flex items-center space-x-2 w-32 h-12">
             <img 
-              src="/public/Frame_1-removebg-preview.png" 
+              src="/Frame_1-removebg-preview.png" 
               alt="Roovexo Logo" 
-              className="w-10 h-10 object-contain"
+              className="w-32 h-32 object-contain"
             />
-            <span className="text-xl font-bold text-gray-900">Roovexo</span>
           </div>
 
           {/* Desktop Navigation */}

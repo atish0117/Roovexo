@@ -36,7 +36,7 @@ const Footer = () => {
             <div className="lg:col-span-2">
               <div className="flex items-center space-x-2 mb-6">
                 <img 
-                  src="/public/Frame_1-removebg-preview.png" 
+                  src="/public/Frame.png"
                   alt="Roovexo Logo" 
                   className="w-10 h-10 object-contain"
                 />

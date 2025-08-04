@@ -38,7 +38,7 @@ const Footer = () => {
                 <img 
                   src="/public/Frame.png"
                   alt="Roovexo Logo" 
-                  className="w-10 h-10 object-contain"
+                  className="w-10 h-10 object-contain rounded-full"
                 />
                 <span className="text-xl font-bold">Roovexo</span>
               </div>
